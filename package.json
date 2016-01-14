@@ -1,0 +1,23 @@
+{
+  "name": "make-json-request",
+  "version": "1.0.0",
+  "description": "Wrapper around the request module that defaults to JSON and uses request-callback-wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauriceButler/make-json-request.git"
+  },
+  "author": "Maurice Butler <maurice.butler@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauriceButler/make-json-request/issues"
+  },
+  "homepage": "https://github.com/MauriceButler/make-json-request#readme",
+  "dependencies": {
+    "request": "^2.67.0",
+    "request-callback-wrapper": "^2.0.0"
+  }
+}
