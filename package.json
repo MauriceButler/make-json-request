@@ -1,6 +1,6 @@
 {
   "name": "make-json-request",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper around the request module that defaults to JSON and uses request-callback-wrapper",
   "main": "index.js",
   "scripts": {
